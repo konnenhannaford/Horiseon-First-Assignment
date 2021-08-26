@@ -10,3 +10,4 @@ This page is the company page for Horiseon, a SEO company.  Included on the page
 
 Changes have been made to the code of this site to reduce ineffeciency in the coding.  Changes include updating to semantic elements, refining class and id information on the page, reducing extra coding and making the page ordered structurely
 
+![](/.images/horiseon%20page.png)
